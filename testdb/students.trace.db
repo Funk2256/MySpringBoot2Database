@@ -1,0 +1,15 @@
+2024-10-16 00:06:13.631285+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.age,s1_0.faculty,s1_0.name,s1_0.surname from students s1_0 [42104-224]
+2024-10-16 00:06:54.503796+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.age,s1_0.faculty,s1_0.name,s1_0.surname from students s1_0 [42104-224]
+2024-10-16 00:07:34.854998+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.age,s1_0.faculty,s1_0.name,s1_0.surname from students s1_0 [42104-224]
+2024-10-16 00:14:28.156525+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.age,s1_0.faculty,s1_0.name,s1_0.surname from students s1_0 [42104-224]
+2024-10-16 00:16:58.379903+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+select s1_0.id,s1_0.age,s1_0.faculty,s1_0.name,s1_0.surname from students s1_0 [42104-224]
